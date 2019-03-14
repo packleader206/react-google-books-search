@@ -30,7 +30,7 @@ Google Books Search is a full stack application that allows users to search and 
 
 <hr>
 
-## [Click for a Live Demo]()
+## [Click for a Live Demo](https://safe-sands-10473.herokuapp.com/)
 
 ## Local Setup:
 
