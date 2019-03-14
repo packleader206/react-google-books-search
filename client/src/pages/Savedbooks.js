@@ -30,7 +30,7 @@ class Savedbooks extends Component {
       <div className="container">
         <Jumbotron
           title="Saved Books"
-          instructions="Click 'View Books' for more detail or 'Delete Book' to remove from your saved list."
+          instructions="Click 'View Book' for more detail or 'Delete Book' to remove from your saved list."
         />
         <BookCard
           books={this.state.books}

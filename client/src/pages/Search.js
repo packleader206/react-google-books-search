@@ -96,8 +96,8 @@ class Search extends Component {
       <div className="container">
 
         <Jumbotron
-          title="Search Google Books"
-          instructions="Search the Google Books API. Save the books you're interested in!"
+          title="Books Search"
+          instructions="Search the Google Books API.  Save the books you're interested in."
         />
         <SearchForm
           handleInputChange={this.handleInputChange}
