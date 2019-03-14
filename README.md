@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Google Books Search is a full stack application that allows users to search and save books using the Google Books API.  This app demonstrates the MERN stack utilizing <a href="https://docs.mongodb.com/manual/installation/">MongoDB</a>, <a href="https://expressjs.com/">Express</a>, <a href="https://reactjs.org/">React</a> & <a href="https://nodejs.org/en/download/">Node JS</a>.  
+Google Books Search is a full stack application that allows users to search and save books using the Google Books API.  This app demonstrates the MERN stack utilizing <a href="https://docs.mongodb.com/manual/installation/">MongoDB</a>, <a href="https://expressjs.com/">Express</a>, <a href="https://reactjs.org/">React</a> & <a href="https://nodejs.org/en/download/">Node JS</a>.  The app was created using the React JS library and was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
 
 ## Technologies Used:
 
