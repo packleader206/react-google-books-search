@@ -56,7 +56,7 @@ Once you have MongoDB installed, you will need to create a database called "goog
 
            1.  Using your cmd prompt, navigate to the 'react-google-books-search' directory that you cloned in the previous step.
            
-           2.  Run the command 'npm start' to start the server.
+           2.  Run the command 'npm start' to start the app.
 
 
 
